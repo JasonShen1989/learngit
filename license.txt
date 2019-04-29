@@ -1,1 +1,2 @@
 copyright date time is 2019/04/29
+money is 1,000,000
